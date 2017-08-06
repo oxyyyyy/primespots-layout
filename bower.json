@@ -1,0 +1,20 @@
+{
+  "name": "primespots-layout",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Alexandr Vlasenko"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/oxyyyyy/primespots-layout",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

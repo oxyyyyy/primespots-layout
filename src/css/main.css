@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.input-group-addon, .form-control, .dropdown-toggle {
+  border: none; }
+
+.input-group-addon {
+  background: none; }
+
+.dropdown-toggle:after {
+  border: none;
+  content: url("../assets/icons/Expand.svg");
+  margin-bottom: 25px;
+  margin-left: 15px; }
+
+nav {
+  border-bottom: 1px solid #79818B; }
+
+.nav__logo, .nav__items, .nav__user {
+  height: 100px; }
+
+.nav__logo {
+  border-right: 1px solid #79818B; }
+  .nav__logo img {
+    margin: 0 50px; }
+
+.nav__items {
+  margin-right: auto;
+  margin-left: 50px; }
+
+.nav__search, .nav__dropdown {
+  margin-right: 10px; }
+
+.nav__search {
+  width: 150px !important; }
+
+.nav__user {
+  margin: 0 50px; }
+  .nav__user img {
+    width: 50px;
+    margin-right: 10px; }
+  .nav__user p {
+    margin: 0; }
